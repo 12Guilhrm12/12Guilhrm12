@@ -16,14 +16,6 @@
 
 ---
 
-<p align="center">
-  ### <p align="center"> 🟠 My Indie Game 🟠 </p>
-  <a href="https://youtu.be/a9fs7_7eNFs">
-  </a>
-</p>
-
----
-
 ### <p align="center"> Projects i'm working on </p>
 <p align="center">
   🟠 Orange        <br>
