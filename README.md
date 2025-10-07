@@ -3,19 +3,19 @@
   <img src="https://your-banner-link-here.png" alt="Tochika Studios Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Hey, eu sou o Justin</h1>
-<h3 align="center">Programador • Escritor • Criador de jogos indie</h3>
+<h1 align="center">👋 Hello There, I'm Justin</h1>
+<h3 align="center">Programmer • Musician • Game Developer</h3>
 
 ---
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio,godot,python,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio,cpp,python,html,duolingo" />
 </p>
 
 ---
 
-### 🕹️ Projetos em destaque
+### 🟠 My Indie Game 🟠 
 <p align="center">
   <a href="https://github.com/12Guilhrm12/Orange">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=12Guilhrm12&repo=Orange&theme=tokyonight" />
@@ -24,19 +24,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### Projects im Working on
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12Guilhrm12&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=12Guilhrm12&theme=tokyonight&hide_border=true" width="48%"/>
+  🟠 Orange
+  🐹 Hamster Havoc
+  🚀 Stars Enigma
 </p>
 
 ---
 
 ### 💬 Sobre mim
 <p align="center">
-  💻 Desenvolvedor indie apaixonado por criar jogos e universos.  
-  🚀 Atualmente trabalhando em <strong>Orange</strong>  
-  🎮 Fundador da <strong>Tochika Studios</strong>
+  💻 Indie Game Developer
+  🇧🇷 Brazilian Fella
+  🎮 Creator of <strong>Tochika Studios</strong>
 </p>
 
 ---
