@@ -8,17 +8,16 @@
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Abilities
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gamemakerstudio,cpp,python,discord,html,css" />
 </p>
 
 ---
 
-### 🟠 My Indie Game 🟠 
+### 🟠 My Indie Game  
 <p align="center">
-  <a href="https://github.com/12Guilhrm12/Orange">
-    <img src="https://static.vakinha.com.br/uploads/vakinha/image/5366794/1740433959.025.png" />
+  <a href="https://github.com/12Guilhrm12/Orange.git">
   </a>
 </p>
 
@@ -35,9 +34,9 @@
 
 ### 💬 Sobre mim
 <p align="center">
-  💻 Indie Game Developer
-  🇧🇷 Brazilian Fella
-  🎮 Creator of <strong>Tochika Studios</strong>
+  💻 Indie Game Developer  <br>
+  🇧🇷 Brazilian Fella <br>
+  🎮 <strong>Tochika Studios</strong> <br>
 </p>
 
 ---
