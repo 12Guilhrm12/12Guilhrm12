@@ -10,7 +10,7 @@
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio,cpp,python,html,duolingo" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio,cpp,python,discord,html,css" />
 </p>
 
 ---
