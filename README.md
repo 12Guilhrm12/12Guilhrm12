@@ -34,9 +34,7 @@
 
 ### 💬 Sobre mim
 <p align="center">
-  💻 Indie Game Developer  <br>
-  🇧🇷 Brazilian Fella <br>
-  🎮 <strong>Tochika Studios</strong> <br>
+  I am an Indie Game Developer, from Brazil
 </p>
 
 ---
