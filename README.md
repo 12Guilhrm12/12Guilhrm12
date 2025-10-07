@@ -8,6 +8,6 @@
 
 ###
 
-<p align="left">I'm Justin. A Game Developer.</p>
+<p align="center">I'm Justin. A Game Developer.</p>
 
 ###
