@@ -18,7 +18,7 @@
 ### 🟠 My Indie Game 🟠 
 <p align="center">
   <a href="https://github.com/12Guilhrm12/Orange">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=12Guilhrm12&repo=Orange&theme=tokyonight" />
+    <img src="https://static.vakinha.com.br/uploads/vakinha/image/5366794/1740433959.025.png" />
   </a>
 </p>
 
@@ -26,9 +26,9 @@
 
 ### Projects im Working on
 <p align="center">
-  🟠 Orange
-  🐹 Hamster Havoc
-  🚀 Stars Enigma
+  🟠 Orange        <br>
+  🐹 Hamster Havoc <br>
+  🚀 Stars Enigma  <br>
 </p>
 
 ---
