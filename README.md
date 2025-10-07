@@ -27,7 +27,7 @@
 
 ### <p align="center"> ⚔️ About me ⚔️ </p>
 <p align="center">
-  Hello, I am Justin. I'm an Indie Game Developer, Musician and a Programmer. I've been working on some projects, and i'm learning C++ and Python languages.
+  Hello, I am Justin. I'm an Indie Game Developer, Musician and a Programmer. I've been working on some projects, and i'm learning C++ and Python.
 </p>
 
 ---
@@ -38,7 +38,13 @@
   <a href="https://tochikastudios.onrender.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Tochika_Studios-orange.svg?logo=tochikastudios&logoColor=white&style=for-the-badge" alt="Tochika Studios"/>
   </a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-in%20progress-blueviolet?style=for-the-badge"/></a>
+  <a href="https://www.youtube.com/@12guilhrm12" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/c67w3fmyQS" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
