@@ -10,16 +10,16 @@
 
 ---
 
-### 🧠 Abilities
 <p align="center">
+  ### Abilities
   <img src="https://skillicons.dev/icons?i=gamemakerstudio,cpp,python,discord,html,css" />
 </p>
 
 ---
 
-### 🟠 My Indie Game  
 <p align="center">
-  <a href="https://github.com/12Guilhrm12/Orange.git">
+  ### 🟠 My Indie Game  
+  <a href="https://youtu.be/a9fs7_7eNFs">
   </a>
 </p>
 
@@ -34,9 +34,9 @@
 
 ---
 
-### 💬 Sobre mim
 <p align="center">
-  I am an Indie Game Developer, from Brazil
+  ### About me
+  Hello, I am Justin. I'm an Indie Game Developer, Musician and a Programmer. I've been working on some projects, 
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ### 🔗 Links
 <p align="center">
   <a href="https://github.com/12Guilhrm12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tochika_Studios-orange?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Tochika_Studios-orange?style=for-the-badge&logo=https://i.imgur.com/CYIMNyt.png&logoColor=white"/>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-in%20progress-blueviolet?style=for-the-badge"/></a>
 </p>
 
