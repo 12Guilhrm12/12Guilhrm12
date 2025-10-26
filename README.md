@@ -20,7 +20,6 @@
 <p align="center">
   🟠 Orange        <br>
   🐹 Hamster Havoc <br>
-  🚀 Stars Enigma  <br>
 </p>
 
 ---
