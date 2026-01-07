@@ -20,13 +20,18 @@
 <p align="center">
   🟠 Orange        <br>
   🐹 Hamster Havoc <br>
+  🦉 Breezemi <br>
 </p>
 
 ---
 
 ### <p align="center"> ⚔️ About me ⚔️ </p>
 <p align="center">
-  Hello, I am Justin. I'm an Indie Game Developer, Musician and a Programmer. I've been working on some projects, and i'm learning C++ and Python. My actual project is a 2D top-down game called Orange, you control an Orange Kid and must survive your own fears. Also creator of Pactum SMP on Minecraft. 
+  Hello, I am Justin. I'm an Indie Game Developer, Musician and a Programmer. I've been working on some projects, and i'm learning C++ and Python.
+  <br>
+  My actual project is a 2D top-down game called Orange, you control an Orange Kid and must survive your own fears.
+  <br>
+  Working on a Self-Help AI ChatBot integration using pytorch and python.
 </p>
 
 ---
